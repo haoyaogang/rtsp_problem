@@ -1,0 +1,3 @@
+rtsp streaming:
+ H264 : pps and sps for keyframe
+ AAC: ADTS = frameheader(7bytes)  + AAC
